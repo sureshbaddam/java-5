@@ -1,0 +1,33 @@
+/* Custom CSS */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+.jumbotron {
+  background-color: #e9ecef; /* Light gray jumbotron */
+}
+
+.movie-card {
+  margin-bottom: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.movie-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
